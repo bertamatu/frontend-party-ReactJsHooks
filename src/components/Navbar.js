@@ -3,15 +3,16 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const NavMenu = styled.nav`
-  position: sticky;
-  text-align: center;
   padding: 1rem 0;
+  position: fixed;
+  top: 1rem;
+  left: 50rem;
 `;
 
 const LinkItem = styled(Link)`
   text-decoration: none;
   padding: 1rem;
-  color: rgba(0, 0, 0, 0.6);
+  color: #86b300;
   font-weight: 500;
   font-size: 0.8rem;
   text-transform: uppercase;
