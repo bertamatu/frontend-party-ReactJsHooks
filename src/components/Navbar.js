@@ -5,7 +5,7 @@ import styled from "styled-components";
 const NavMenu = styled.nav`
   position: sticky;
   text-align: center;
-  padding-top: 2rem;
+  padding: 1rem 0;
 `;
 
 const LinkItem = styled(Link)`
