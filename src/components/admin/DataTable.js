@@ -66,6 +66,12 @@ const DataTable = (props) => {
     const remoteData = await api.getServers(token);
     setServers(remoteData);
   };
+
+  // setTimeout(serversList, 60000);
+  // useEffect(() => {
+  //   localStorage.setItem("servers", JSON.stringify(servers));
+  // }, [servers]);
+
   return (
     <AdminDataContainer>
       <TableHeader>
