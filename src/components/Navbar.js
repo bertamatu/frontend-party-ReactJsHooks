@@ -6,7 +6,7 @@ const NavMenu = styled.nav`
   padding: 1rem 0;
   position: fixed;
   top: 1rem;
-  left: 50rem;
+  left: 2rem;
 `;
 
 const LinkItem = styled(Link)`
