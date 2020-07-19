@@ -7,6 +7,7 @@ const MainLogo = styled.p`
   font-weight: 750;
 `;
 const LogoGreenDot = styled.span`
+  margin-left: -0.8rem;
   color: rgb(159, 213, 58);
   font-size: 4rem;
 `;
