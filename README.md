@@ -7,9 +7,9 @@ Run project:<br>
 <h1><a href="https://my-frontend-party.netlify.app/"> My APP on Netlify </a></h1><br>
 <h4>Credentials:</h4><p><b>username:</b> tesonet | <b>password:</b> partyanimal</p>
 <hr>
-<h3> React Js | Hooks | Styled-components</h3><br>
 <h1><a href="https://github.com/bertamatu/frontend-party">TASK</a></h1>
 <br>
+<h3>React Js | Hooks | Styled-components</h3><br>
 ● User login with give credentials to receive the token;<br>
 ● Data fetch after an authorization;<br>
 ● Design: styled-components;<br>
