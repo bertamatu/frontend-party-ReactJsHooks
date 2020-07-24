@@ -5,7 +5,6 @@ Install node-modules (node.js is required on your machine):<br>
 Run project:<br>
 <code>$ npm start </code>
 <h1><a href="https://my-frontend-party.netlify.app/"> My APP on Netlify </a></h1><br>
-<h4>Credentials:</h4><p><b>username:</b> tesonet | <b>password:</b> partyanimal</p>
 <hr>
 <h1><a href="https://github.com/bertamatu/frontend-party">TASK</a></h1>
 <br>
