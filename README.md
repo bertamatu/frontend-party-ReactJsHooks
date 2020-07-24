@@ -1,6 +1,7 @@
 <h3> React Js | Hooks | Styled-components</h3><br>
 <h1><a href="https://github.com/bertamatu/frontend-party">TASK</a></h1>
 <h1><a href="https://my-frontend-party.netlify.app/"> My APP on Netlify </a></h1><br>
+<p><b>username:</b> tesonet | <b>password:</b> partyanimal</p>
 <br>
 <hr>
 ● User login with give credentials to receive the token;<br>
