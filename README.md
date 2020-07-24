@@ -1,3 +1,17 @@
+<h3> React Js | Hooks | Styled-components</h3><br>
+<h1><a href="https://github.com/bertamatu/frontend-party">TASK</a></h1> |
+<h1><a href="https://my-frontend-party.netlify.app/"> My APP on Netlify </a></h1><br>
+<br>
+<hr>
+● User login with give credentials to receive the token;<br>
+● Data fetch after an authorization;<br>
+● Design: styled-components;<br>
+<hr>
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
