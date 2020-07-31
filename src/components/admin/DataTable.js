@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 import api from "../../services/api";
-import auth from "../../services/auth";
 import storage from "../../services/storage";
 
 const AdminDataContainer = styled.main`
@@ -54,7 +52,6 @@ const DataTable = (props) => {
   const token = storage.getToken();
 
   useEffect(() => {
-    console.log("token", token);
     if (!token) {
       props.history.push("/login");
     } else {
@@ -66,11 +63,6 @@ const DataTable = (props) => {
     const remoteData = await api.getServers(token);
     setServers(remoteData);
   };
-
-  // setTimeout(serversList, 60000);
-  // useEffect(() => {
-  //   localStorage.setItem("servers", JSON.stringify(servers));
-  // }, [servers]);
 
   return (
     <AdminDataContainer>
