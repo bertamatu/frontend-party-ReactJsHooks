@@ -5,9 +5,6 @@ Install node-modules (node.js is required on your machine):<br>
 Run project:<br>
 <code>$ npm start </code>
 <h1><a href="https://my-frontend-party.netlify.app/"> My APP on Netlify </a></h1><br>
-<hr>
-<h1><a href="https://github.com/bertamatu/frontend-party">TASK</a></h1>
-<br>
 <h3>React Js | Hooks | Styled-components</h3><br>
 ● User login with give credentials to receive the token;<br>
 ● Data fetch after an authorization;<br>
